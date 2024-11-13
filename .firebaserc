@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "project-b5d19"
-  }
+    "default": "project-b5d19",
+    "staging": "clone-6b9cb"
+  },
+  "targets": {},
+  "etags": {}
 }
